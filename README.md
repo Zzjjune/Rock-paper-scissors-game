@@ -24,6 +24,7 @@ Installation and Setup
 3.	Install the required dependencies: npm install
 4.	Start the development server: npm start
 5.	Open your web browser and go to:http://localhost:3000
+   or go to: http://172.21.112.1:3000/
    
 Project Structure
 The main files are:
